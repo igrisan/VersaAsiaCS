@@ -24,8 +24,8 @@ Create a script to iterate through 1 to 100 and replace:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/bigbang-generator.git
-   cd bigbang-generator
+   git clone https://github.com/igrisan/VersaAsiaCS.git
+   cd VersaAsianCS
    ```
 
 2. Install dependencies:
