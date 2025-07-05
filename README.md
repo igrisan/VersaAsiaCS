@@ -1,5 +1,7 @@
 # VersaAsia Case Study 
-Author: Muhammad Ashraff Bin Azhan
+Author  :Muhammad Ashraff Bin Azhan
+Email   :muhdashraffazhn@gmail.com
+Github  :https://github.com/igrisan
 
 A JavaScript and TypeScript implementation of the Big Bang prediction model based on the collision of prime numbers 3 and 5.
 There was a tale when 2 prime numbers collided and a big bang happened. Scientists found out the 2 prime numbers are 3 and 5, but they need a model to generate an array of numbers to predict when the big bang will happen again.
