@@ -1,0 +1,26 @@
+{
+  "name": "bigbang-generator",
+  "version": "1.0.0",
+  "description": "A script that generates an array predicting when the Big Bang will happen again based on prime numbers 3 and 5",
+  "main": "bigbang.js",
+  "scripts": {
+    "start": "node bigbang.js",
+    "start:ts": "npx ts-node bigbang.ts",
+    "build": "npx tsc bigbang.ts",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "fizzbuzz",
+    "bigbang",
+    "prime-numbers",
+    "javascript",
+    "typescript"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0",
+    "ts-node": "^10.0.0"
+  }
+}
