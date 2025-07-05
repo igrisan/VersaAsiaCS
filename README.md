@@ -55,7 +55,7 @@ npm run build
 node bigbang.js
 ```
 
-## 🧪 Testing
+## Testing
 
 Run the test suite to verify the implementation:
 
@@ -63,7 +63,7 @@ Run the test suite to verify the implementation:
 npm test
 ```
 
-## 📊 Expected Output
+## Expected Output
 
 The script generates an `output.json` file containing an array like this:
 
@@ -75,7 +75,7 @@ The script generates an `output.json` file containing an array like this:
 ]
 ```
 
-## 🔍 Key Features
+## Key Features
 
 - **Dual Implementation**: Both JavaScript and TypeScript versions
 - **Clean Code**: Well-documented and structured
@@ -83,7 +83,7 @@ The script generates an `output.json` file containing an array like this:
 - **Testing**: Simple test suite included
 - **Output Generation**: Automatically creates `output.json` file
 
-## 📝 Algorithm Logic
+## Algorithm Logic
 
 ```javascript
 for (let i = 1; i <= 100; i++) {
