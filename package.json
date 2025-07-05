@@ -1,5 +1,5 @@
 {
-  "name": "bigbang-generator",
+  "name": "VersaAsiaCS",
   "version": "1.0.0",
   "description": "A script that generates an array predicting when the Big Bang will happen again based on prime numbers 3 and 5",
   "main": "bigbang.js",
@@ -16,7 +16,7 @@
     "javascript",
     "typescript"
   ],
-  "author": "Your Name",
+  "author": "Ashraff Azhan",
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^20.0.0",
